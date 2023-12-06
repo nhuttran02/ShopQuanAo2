@@ -1,1 +1,3 @@
-# ShopQuanAo2
+# ShopQuanAo Nstore
+
+Run command: php artisan serve
